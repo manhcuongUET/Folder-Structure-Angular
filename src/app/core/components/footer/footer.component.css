@@ -1,0 +1,27 @@
+.container{
+    flex-shrink: 0;
+}
+.content-footer{
+    background-color: #fbe4d4
+    ;
+}
+.content-info{
+    display: flex;
+    justify-content: space-around;
+}
+.item{
+    font-weight: 600;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.social-network{
+    display: flex;
+    justify-content: center;
+}
+.item-social{
+    margin: 15px 15px;
+}
+.info-company{
+    text-align: center;
+}

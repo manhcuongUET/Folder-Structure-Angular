@@ -1,0 +1,20 @@
+.header {
+  background-color: #fbe4d4;
+  padding: 15px 0;
+}
+.content-header {
+  padding: 0 10%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo{
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+.user-name {
+  background-color: #a8d08c;
+  padding: 5px 10px;
+  font-weight: 900;
+  font-size: 1.5rem;
+}

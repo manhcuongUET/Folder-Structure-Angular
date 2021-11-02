@@ -1,0 +1,44 @@
+.container {
+  margin: 20px 0;
+}
+.content-list-customers {
+  background-color: #f4b081;
+}
+.header-content {
+  text-align: center;
+  font-weight: 900;
+  font-size: larger;
+}
+.list-customers {
+  text-align: center;
+  font-weight: 900;
+  font-size: larger;
+}
+.button-customers{
+  background-color: #a8d08c;
+  border: 0px ;
+  border-radius: 1px solid ;
+  padding: 10px 30px;
+  font-weight: 900;
+}
+.table-list-customers {
+  margin: 20px 0;
+}
+table {
+  width: 100%;
+  
+}
+
+td,
+th {
+  border: 1px solid #f19659;
+  text-align: left;
+  padding: 8px;
+  text-align: center;
+}
+tr:nth-child(odd) {
+  background-color: #fcece7;
+}
+tr:nth-child(even) {
+  background-color: #f8d6cc;
+}
